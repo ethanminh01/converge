@@ -6,9 +6,9 @@ import "./globals.css";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Converge Institutional | The Digital Atrium",
+  title: "Converge | Onchain RWA Liquidity",
   description:
-    "The first compliance-first RWA swap protocol, backed by clearing house liquidity from SKY and Inifi.",
+    "Fixed-price RWA swaps on Uniswap v4. Oracle-priced, zero slippage, atomic settlement.",
 };
 
 export default function RootLayout({
