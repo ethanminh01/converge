@@ -1,0 +1,6 @@
+[submodule "packages/contracts/lib/hookmate"]
+	path = packages/contracts/lib/hookmate
+	url = https://github.com/akshatmittal/hookmate
+[submodule "packages/contracts/lib/uniswap-hooks"]
+	path = packages/contracts/lib/uniswap-hooks
+	url = https://github.com/openzeppelin/uniswap-hooks
