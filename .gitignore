@@ -10,6 +10,11 @@ packages/contracts/cache/
 packages/contracts/out/
 packages/contracts/broadcast/
 
+# cre
+packages/cre/.env
+packages/cre/**/.cre_build_tmp*
+package-lock.json
+
 # claude internals
 .claude/
 .agents/
